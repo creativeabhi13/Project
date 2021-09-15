@@ -15,7 +15,7 @@ console.log(bonusPoints)
 {
     console.log("The button was clicked")
  } */
-function countdown() {
+/* function countdown() {
           console.log(7)
           console.log(6)
           console.log(5)
@@ -24,4 +24,9 @@ function countdown() {
           console.log(2)
           console.log(1)
 }
-countdown()
+countdown() */
+let count = 0
+function increment() {
+  count = count + 1
+  console.log(count)
+}
