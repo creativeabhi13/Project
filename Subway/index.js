@@ -11,7 +11,17 @@ console.log(bonusPoints)
 bonusPoints = bonusPoints + 45
 console.log(bonusPoints)
   */
-function increment()
+/* function increment()
 {
     console.log("The button was clicked")
- }
+ } */
+function countdown() {
+          console.log(7)
+          console.log(6)
+          console.log(5)
+          console.log(4)
+          console.log(3)
+          console.log(2)
+          console.log(1)
+}
+countdown()
