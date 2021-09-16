@@ -25,8 +25,19 @@ console.log(bonusPoints)
           console.log(1)
 }
 countdown() */
+/* let lapscompleted = 0
+
+function incrementlap() {
+  lapscompleted = lapscompleted + 1
+  
+}
+incrementlap()
+incrementlap()
+incrementlap()
+console.log(lapscompleted) */
+
 let count = 0
-function increment() {
-  count = count + 1
-  console.log(count)
+function increment()
+{
+  console.log("clicked")
 }
